@@ -2,6 +2,10 @@
 
 Android 客户端下载页。
 
+特别注意：本小姐的软件只会请求两项权限，如果有（别权限请求，请立刻卸载，保护好自己的隐私！！！）
+一个是关闭电池优化
+一个是允许自启动
+
 ## 下载
 
 **[⬇ 下载 qingqiu.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu.apk)** （约 48 MB）
