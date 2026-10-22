@@ -2,19 +2,14 @@
 
 Android 客户端下载页。
 
-特别注意：本小姐的软件只会请求两项权限，如果（有别权限请求，请立刻卸载，保护好自己的隐私！！！）
-
-
-一个是关闭电池优化
-
-
-一个是允许自启动
-
-
+> 特别注意：本小姐的软件**只会请求两项权限**，如果出现别的权限请求，请立刻卸载，保护好自己的隐私！！！
+>
+> 一个是**关闭电池优化**
+> 一个是**允许自启动**
 
 ## 下载
 
-**[⬇ 下载 qingqiu.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu.apk)** （约 48 MB）
+**[⬇ 下载 qingqiu.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu.apk)** （约 **45 MB**）
 
 也可以进 [Releases](../../releases) 选择指定版本下载。
 
@@ -27,9 +22,11 @@ Android 客户端下载页。
 
 ## 系统要求
 
-- Android 8.0 及以上
+- **Android 7.0 及以上**（32 位 / 64 位真机均可）
 - 需要联网
 
 ## 更新
 
 新版本会发布在 Releases，**直接覆盖安装即可，无需卸载**。
+
+当前版本 **v1.0.3**，安装包 45.4 MB。
