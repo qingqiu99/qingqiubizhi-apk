@@ -9,24 +9,30 @@ Android 客户端下载页。
 
 ## 下载
 
-**[⬇ 下载 qingqiu.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu.apk)** （约 **45 MB**）
+| 文件 | 大小 | 说明 |
+|---|---|---|
+| **[⬇ qingqiu-arm64.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu-arm64.apk)** | **31 MB** | **推荐**。64 位手机用这个（小米 11、2020 年后的机型基本都是） |
+| [⬇ qingqiu.apk](https://github.com/qingqiu99/qingqiubizhi-apk/releases/latest/download/qingqiu.apk) | 45 MB | 通用包，32 位老机器也能装 |
 
 也可以进 [Releases](../../releases) 选择指定版本下载。
 
 ## 安装
 
 1. 手机浏览器打开本页，点击上面的下载链接
-2. 下载完成后点击安装
-3. 若提示「禁止安装未知来源应用」，在设置里允许浏览器安装即可
-4. 打开 App 会自动连接服务器，无需任何配置
+2. **下载完先在文件管理器里看一眼大小**（31 MB 或 45 MB）。差几百 KB 就是没下完，重新下
+3. 从文件管理器点开安装
+4. 若提示「禁止安装未知来源应用」，在设置里允许浏览器安装即可
+5. 打开 App 会自动连接服务器，无需任何配置
+
+> 遇到「解析软件包时出现问题」：基本是文件没下完整，或者是在微信 / QQ 里直接点开的（它们会改文件名）。用系统浏览器重新下，再从文件管理器安装。
 
 ## 系统要求
 
-- **Android 7.0 及以上**（32 位 / 64 位真机均可）
+- **Android 7.0 及以上**
 - 需要联网
 
 ## 更新
 
 新版本会发布在 Releases，**直接覆盖安装即可，无需卸载**。
 
-当前版本 **v1.0.7**，安装包 45.4 MB。
+当前版本 **v1.0.8**，安装包 45.4 MB（通用） / 31.1 MB（64 位）。
